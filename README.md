@@ -20,6 +20,7 @@ This project involved creating a Looker Studio dashboard to visualize data from 
 
 ## Dashboard Link
 You can access the live dashboard here: [Looker Studio Dashboard](https://lookerstudio.google.com/u/0/reporting/645c5e06-776c-49fe-9798-3b71952ccd60/page/JOZOF)
+![image](https://github.com/user-attachments/assets/67875604-ed01-490c-aa99-b1b13c8013f1)
 
 
 ## Key Insights from Data Analysis
